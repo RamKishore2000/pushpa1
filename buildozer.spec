@@ -39,7 +39,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.3.0,kivymd==1.1.1,pillow==10.3.0,razorpay, webview, requests
+requirements = python3,kivy==2.3.0,kivymd==1.1.1,pillow==10.3.0,pywebview
 
 
 # (str) Custom source folders for requirements
